@@ -68,11 +68,6 @@
                        android:resource="@string/dirac_summary" />
         </activity>
 
-        <provider
-            android:name=".SummaryProvider"
-            android:authorities="org.lineageos.settings.device.summary">
-        </provider>
-
         <activity
             android:name=".thermal.ThermalSettingsActivity"
             android:label="@string/thermal_title"
