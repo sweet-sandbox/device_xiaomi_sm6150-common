@@ -16,58 +16,6 @@
     <string name="ambient_enable">ആമ്പിയന്റ് ഡിസ്‌പ്ലേ ഉപയോഗിക്കുക</string>
     <string name="doze_brightness_title">എപ്പോഴും തെളിച്ചത്തിൽ</string>
     <string name="doze_brightness_summary">മോഡ് പ്രവർത്തനക്ഷമമാക്കി%s</string>
-    <!-- Dirac settings -->
-    <string name="dirac_title">മി ശബ്ദ എൻഹാൻസർ</string>
-    <string name="dirac_enable">പ്രാപ്തമാക്കുക</string>
-    <string name="dirac_summary">ഓഡിയോ ഗുണനിലവാരം ഒപ്റ്റിമൈസുചെയ്യുക</string>
-    <string name="dirac_headset_title">ഹെഡ്ഫോൺ തരം തിരഞ്ഞെടുക്കുക</string>
-    <string name="dirac_preset_title">ഒരു പ്രീസെറ്റ് തിരഞ്ഞെടുക്കുക</string>
-    <!-- Dirac settings: Headset types -->
-    <string name="dirac_headset_earbuds">Mi ഇയർബഡ്സുകൾ</string>
-    <string name="dirac_headset_in_ear_2013">Mi ഇൻ-ഇയർ (2013)</string>
-    <string name="dirac_headset_piston_1">Mi പിസ്റ്റൺ-1</string>
-    <string name="dirac_headset_general_inear">Mi ഹെഡ്‌ഫോണുകള്‍</string>
-    <string name="dirac_headset_piston_basic">അടിസ്ഥാന പതിപ്പ്</string>
-    <string name="dirac_headset_piston_2">Mi പിസ്റ്റൺ-2</string>
-    <string name="dirac_headset_piston_standard">സ്റ്റാൻഡേർഡ് എഡിഷൻ</string>
-    <string name="dirac_headset_piston_youth">യൂത്ത് എഡിഷൻ</string>
-    <string name="dirac_headset_piston_color">കളർ എഡിഷൻ</string>
-    <string name="dirac_headset_in_ear">Mi ഇൻ-ഇയർ</string>
-    <string name="dirac_headset_capsule">Mi ക്യാപ്സ്യൂൾ</string>
-    <string name="dirac_headset_in_ear_pro">Mi ഇൻ-ഇയർ പ്രോ</string>
-    <string name="dirac_headset_comfort">Mi കംഫർട്ട്</string>
-    <string name="dirac_headset_reduction_noise">മി നോയിസ് ക്യാൻസലിംഗ് ടൈപ്പ്-സി</string>
-    <string name="dirac_headset_cancelling">മി നോയ്സ് ക്യാൻസലിംഗ് 3.5mm</string>
-    <string name="dirac_headset_half_in_ear">Mi ഹാഫ് ഇൻ ഇയർ</string>
-    <string name="dirac_headset_in_ear2">മി ഇൻ ഇയർ 2</string>
-    <string name="dirac_headset_earphone_basic">മി ഇയർഫോൺ ബേസിക്</string>
-    <string name="dirac_headset_earphone">മി ഹെഡ്‌ഫോണുകള്‍</string>
-    <string name="dirac_headset_ear_four">Mi Quadruple Driver ഇയർഫോണുകൾ</string>
-    <string name="dirac_headset_piston_typec">Mi in-Ear ഹെഡ്‌ഫോണുകള്‍ (Type-C)</string>
-    <string name="dirac_headset_bluetooth_collar">മി ബ്ലൂടൂത്ത് നെക്‌ബാൻഡ്‌</string>
-    <string name="dirac_headset_bluetooth_linefree">മി ബ്ലൂടൂത്ത് ഇയർഫോണുകൾ</string>
-    <string name="dirac_headset_redmi_earphones">റെഡ്മി ഇയർഫോണുകൾ</string>
-    <string name="dirac_headset_dual_driver_in_ear">മി ഡ്യുവൽ ഡ്രൈവർ ഇൻ-ഇയർ ഇയർഫോണുകൾ</string>
-    <!-- Dirac settings: Equalizer presets -->
-    <string name="dirac_preset_default">സ്ഥിരമായത്</string>
-    <string name="dirac_preset_rock">റോക്ക്</string>
-    <string name="dirac_preset_jazz">ജാസ്സ്</string>
-    <string name="dirac_preset_pop">പോപ്പ്</string>
-    <string name="dirac_preset_classical">ക്ലാസിക്കൽ</string>
-    <string name="dirac_preset_hiphop">ഹിപ്പ് ഹോപ്പ്</string>
-    <string name="dirac_preset_blues">ദുഃഖഭാവം</string>
-    <string name="dirac_preset_electronic">ഇലക്ട്രോണിക്ക്</string>
-    <string name="dirac_preset_country">കൺട്രി</string>
-    <string name="dirac_preset_dance">നൃത്തം</string>
-    <string name="dirac_preset_metal">മെറ്റൽ</string>
-    <!-- Dirac settings: Sound Scenes -->
-    <string name="music_headset_scenario_select">സീൻ തിരഞ്ഞെടുക്കുക</string>
-    <string name="music_headset_scenario_intelligent">സ്മാർട്ട്</string>
-    <string name="music_headset_scenario_music">സംഗീതം</string>
-    <string name="music_headset_scenario_video">വീഡിയോ</string>
-    <string name="music_headset_scenario_vocal">ശബ്ദം</string>
-    <!-- QS tile title -->
-    <string name="dirac_qs_tile_title">മി ശബ്ദ എൻഹാൻസർ</string>
     <!-- Thermal Profiles -->
     <string name="thermal_title">തെർമൽ പ്രൊഫൈൽസ്</string>
     <string name="thermal_summary">ഓരോ ആപ്പിനും തെർമൽ പ്രൊഫൈൽ കോൺഫിഗറേഷൻ</string>
